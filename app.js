@@ -27,7 +27,8 @@ E-I-E-I-O<br />
 With a ${ sound }-${ sound } here.<br />
 And a ${ sound }-${ sound } there.<br />
 Here a ${ sound }, there a ${ sound }.<br />
-Everywhere a ${ sound }-${ sound }.<br />`);
+Everywhere a ${ sound }-${ sound }.<br />
+and it's edited by me`);
       res.end();
 });
 
